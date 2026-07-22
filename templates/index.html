@@ -90,7 +90,7 @@ block content %}
 <!-- Feature Cards Section -->
 <section class="py-5">
   <div class="container">
-    <h2 class="text-center mb-4">Our Features</h2>
+    <h2 class="text-center mb-4">What VolleyInfo offers</h2>
 
     <div class="row">
       <!-- Card 1 -->
@@ -102,16 +102,15 @@ block content %}
             alt="Feature 1"
           />
           <div class="card-body">
-            <h5 class="card-title">Fast & Reliable</h5>
+            <h5 class="card-title">Information on NPP</h5>
             <p class="card-text">
-              Our platform is optimized for speed and reliability, ensuring a
-              seamless experience.
+              Our website will explain to you how to get the next level in
+              Australian volleyball After you make the state team.
             </p>
             <a href="#" class="btn btn-primary">Learn More</a>
           </div>
         </div>
       </div>
-
       <!-- Card 2 -->
       <div class="col-md-4 mb-4">
         <div class="card h-100">
@@ -121,11 +120,11 @@ block content %}
             alt="Feature 2"
           />
           <div class="card-body">
-            <h5 class="card-title">Easy to Use</h5>
-            <p class="card-text">
-              Simple and intuitive interface designed with users in mind.
-            </p>
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <h5 class="card-title">Clubs in your area</h5>
+            <p class="card-text">Learn to play volleyball by finding a club.</p>
+            <a href="{{ url_for('Vball') }}" class="btn btn-primary"
+              >Learn More</a
+            >
           </div>
         </div>
       </div>
@@ -153,4 +152,5 @@ block content %}
     </div>
   </div>
 </section>
+
 {% endblock %}
