@@ -17,8 +17,8 @@
 
 ## 1. Overview
 
-**Purpose:** The purpose of this website it to give to help youth volleyball players ages 13-18 by helping them find and a club and give information on NPP and how to join the Aus
-**Target audience:** <!-- One sentence: who the site is for (from your personas). -->
+**Purpose:** The purpose of this website is to help youth volleyball players ages 13-18 by helping them find a club in their area and give information on NPP and how to join the Aus
+**Target audience:** My target audience is typically kids 13-18 who want to join a club and start volleyball. Parents who have kids are also targetted aswell as players looking for information on NPP and the Australian National Team Program.
 
 **Technology stack:** Python Flask · Jinja2 templates · Bootstrap (CDN) · custom CSS · pytest
 
