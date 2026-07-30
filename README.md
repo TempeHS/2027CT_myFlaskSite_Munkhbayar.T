@@ -2,10 +2,10 @@
 
 | Field                          | Detail |
 | ------------------------------ | ------ |
-| **Website Title**              |        |
-| **Student Name(s)**            |        |
-| **Class / Course**             |        |
-| **Repository**                 |        |
+| **Website Title**              |VolleyInfo|
+| **Student Name(s)**            |Munkhbayar.T|
+| **Class / Course**             |9CT1|
+| **Repository**                 |2027CT_myFlaskSite_Munkhbayar.T|
 | **Live Site / Codespaces URL** |        |
 | **Date**                       |        |
 
