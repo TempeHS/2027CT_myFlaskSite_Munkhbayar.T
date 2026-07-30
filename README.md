@@ -6,8 +6,8 @@
 | **Student Name(s)**            |Munkhbayar.T|
 | **Class / Course**             |9CT1|
 | **Repository**                 |2027CT_myFlaskSite_Munkhbayar.T|
-| **Live Site / Codespaces URL** |        |
-| **Date**                       |        |
+| **Live Site / Codespaces URL** |(https://musical-space-fiesta-q7r4jpv4wq9gf4w9q.github.dev/)|
+| **Date**                       |30/7/26|
 
 > Your website is the main piece of work. This README is short on purpose — it
 > points a reader to your **2-minute walkthrough** and gives an honest
@@ -17,8 +17,7 @@
 
 ## 1. Overview
 
-**Purpose:** <!-- One or two sentences: what the site is and why it exists (from your Statement of Intent). -->
-
+**Purpose:** The purpose of this website it to give to help youth volleyball players ages 13-18 by helping them find and a club and give information on NPP and how to join the Aus
 **Target audience:** <!-- One sentence: who the site is for (from your personas). -->
 
 **Technology stack:** Python Flask · Jinja2 templates · Bootstrap (CDN) · custom CSS · pytest
