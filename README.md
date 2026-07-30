@@ -57,8 +57,9 @@ planning. Be honest and use evidence — point to a page, a feature or a test.
 
 ### 3.1 Your Statement of Intent
 
-<!-- Paste the Statement of Intent you wrote during planning so the reader can judge your site against it. -->
+My website volleyinfo will help people of any age and skill to find a way to play indoor volleyball in Australia, including training, socials, clubs, state, and nationals. It will help up-and-coming volleyball players find junior development programs, tell them when club trials are, state trials, and explain how high levels of volleyball work.
 
+Currently, it is too hard for people of any skill level to find volleyball, whether it's trials or fun competitions. The reason for this is that information is spread across different websites, making it hard to look for the dates. This has led to confusion in the volleyball community, causing regrets like missing competitions, trials, and events.
 ### 3.2 What You Delivered
 
 | Page    | Route      | What it delivers |
