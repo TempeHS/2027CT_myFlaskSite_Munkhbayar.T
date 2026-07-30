@@ -32,7 +32,7 @@ This is the most important part of your documentation — it shows your website 
   Embed a ~2 minute walkthrough. Replace VIDEO_ID with your YouTube video ID:
   [![Website Walkthrough](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
-  OR link a screen recording stored in the repository:
+  OR link to a screen recording stored in the repository:
   [Watch the Walkthrough](./docs/walkthrough.mp4)
 -->
 
@@ -64,9 +64,9 @@ Currently, it is too hard for people of any skill level to find volleyball, whet
 
 | Page    | Route      | What it delivers |
 | ------- | ---------- | ---------------- |
-| Home    | `/`        |                  |
-| Contact | `/contact` |                  |
-
+| Home    | `/`        | It is the page first presented; it acts as the origin for all the other pages|
+| Contact | `/contact` | It allows the user to fill in a form before pressing send; they have to have a "@" in there gmail form before                             |sending if they do not have an @ symbol, the website will give a message saying it needs one. Once everything is                           |valid and they press send, the website doesn't send to anyone.
+|Vball.   |'/Vball     | This page delivers a box that shows all 7 states, and it shows a map.
 ### 3.3 Evaluation Against Your Intent (2–3 paragraphs)
 
 > Take each aim in your Statement of Intent and evaluate **how well the
