@@ -89,7 +89,7 @@ When clicking on the contact feature or clicking it on the nav bar, it takes you
 <!-- Write 1–2 paragraphs
 My website is very poor on delivering a way for kids to find a club near them. only a map for nsw being in there. I would like to have made it so that each state had a map embeded into the page so when you click on the drop down menu it scrolled down to each one.
 
-My NPP was also very poor, it didnt even load when I tried to get it up. I intdended for it to have a text with an image on the side.
+My NPP was also very poor, it didnt even load when I tried to get it up. I intdended for it to have a text with an image on the side. The image was supposed to be the pathways image shown at nationals, this image explains how volleyball in australia works and how to progress in your volleyball journey in life.
 
 
 ## 4. Acknowledgements
@@ -102,8 +102,11 @@ My NPP was also very poor, it didnt even load when I tried to get it up. I intde
 | ------------- | ---------------- | ------- | ---------------------- |
 | Bootstrap     | Bootstrap team   | MIT     | Layout and components  |
 | Flask         | Pallets Projects | BSD     | Web server and routing |
-|               |                  |         |                        |
-|               |                  |         |                        |
+| Volleyball NPP| Volleyball Australia|113P  | Iamge in hero carosoul |
+| Perth steel picture| Volleyball Australia|113P. | Image in hero carosoul |
+| Picture in feature | Volleyball Australia|113P  | Iamge in hero feature |
+| Picture in feature | Volleyball Australia|113P  | Iamge in feature |
+| Picture in carosul  | Volleyball Australia|113P | Iamge in feature|
 
 ---
 
