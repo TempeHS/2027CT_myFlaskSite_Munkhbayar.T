@@ -38,8 +38,9 @@ This is the most important part of your documentation — it shows your website 
 
 | Field            | Detail |
 | ---------------- | ------ |
-| **Link / Embed** |        |
-| **Duration**     |        |
+| **Link / Embed** | <img width="1080" height="938" alt="Animation" src="https://github.com/user-attachments/assets/43f340e2-830d-4941-8adb-8978f1adb0bf" />
+       |
+| **Description**     |First I show my home page, and the three pictures on my hero carousel, I then went to my Vball page showed my drop down button with all the states and the embeded map of all volleyball clubs in NSW. When my courser hovers above the down drop button it turns to a pointer. The next part I showed was my contact page, the embeded map, gmail and the form. The form |
 
 **Your walkthrough should show:**
 
@@ -64,8 +65,10 @@ Currently, it is too hard for people of any skill level to find volleyball, whet
 
 | Page    | Route      | What it delivers |
 | ------- | ---------- | ---------------- |
-| Home    | `/`        | It is the page first presented; it acts as the origin for all the other pages|
-| Contact | `/contact` | It allows the user to fill in a form before pressing send; they have to have a "@" in there gmail form before                             |sending if they do not have an @ symbol, the website will give a message saying it needs one. Once everything is                           |valid and they press send, the website doesn't send to anyone.
+| Home    | `/`        | It is the page first presented; it acts as the origin for all the other pages, it has a hero carosel that flips through 3 pictures, the |
+| Contact | `/contact` | It allows the user to fill in a form before pressing send; they have to have a "@" in there gmail form before                             
+                       |sending if they do not have an @ symbol, the website will give a message saying it needs one. Once everything is                          
+                       |valid and they press send, the website doesn't send to anyone.
 |Vball.   |'/Vball     | This page delivers a box that shows all 7 states, and it shows a map.
 ### 3.3 Evaluation Against Your Intent (2–3 paragraphs)
 
