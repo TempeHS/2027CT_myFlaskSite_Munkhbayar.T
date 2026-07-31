@@ -84,8 +84,10 @@ When clicking on the contact feature or clicking it on the nav bar, it takes you
 > falls short, and state what you would improve to better meet your intent.
 
 <!-- Write 1–2 paragraphs
+My website is very poor on delivering a way for kids to find a club near them. only a map for nsw being in there. I would like to have made it so that each state had a map embeded into the page so when you click on the drop down menu it scrolled down to each one.
 
----
+My NPP was also vwery poor 
+
 
 ## 4. Acknowledgements
 
