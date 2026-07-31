@@ -75,7 +75,7 @@ Currently, it is too hard for people of any skill level to find volleyball, whet
 
 I think my website is very simple and easy for a 13-18 year old to use. Sadly the page for players to find volleyball club fell short, that page you were supposed to be able use the drop drop down menu to press on the state you live in and the page was supposed to show a google map with most volleyball clubs to the corresponding state. I didnt add a page for NPP but if i would it would have the nav bar at the top and an image on the side with a text talking.
 
-When clicking on the contact feature or clicking it on the nav bar, it takes you to do a page with google maps embeded to it, on the right of the google maps its a form
+When clicking on the contact feature or clicking it on the nav bar, it takes you to do a page with google maps embeded to it, on the right of the google maps there is a form to fill in. Once you fill it in you can send it but it does nothing. I would like the website to have a fake send page.
 
 ### 3.4 Overall Effectiveness (1–2 paragraphs)
 
@@ -83,7 +83,7 @@ When clicking on the contact feature or clicking it on the nav bar, it takes you
 > achieving its purpose for its target audience? Weigh what works against what
 > falls short, and state what you would improve to better meet your intent.
 
-<!-- Write 1–2 paragraphs. -->
+<!-- Write 1–2 paragraphs
 
 ---
 
