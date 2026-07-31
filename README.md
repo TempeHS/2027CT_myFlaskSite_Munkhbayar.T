@@ -89,7 +89,7 @@ When clicking on the contact feature or clicking it on the nav bar, it takes you
 <!-- Write 1–2 paragraphs
 My website is very poor on delivering a way for kids to find a club near them. only a map for nsw being in there. I would like to have made it so that each state had a map embeded into the page so when you click on the drop down menu it scrolled down to each one.
 
-My NPP was also vwery poor 
+My NPP was also very poor, it didnt even load when I tried to get it up. I intdended for it to have a text with an image on the side.
 
 
 ## 4. Acknowledgements
