@@ -73,7 +73,7 @@ Currently, it is too hard for people of any skill level to find volleyball, whet
 > delivered site meets it**. Where did you meet your intent? Where did you fall
 > short, and why? Support every judgement with evidence from your site.
 
-<!-- Write 2–3 paragraphs. -->
+I think my website is very simple and easy for a 13-18 year old to use. Sadly the page for players to find volleyball club fell short, that page you were supposed to be able use the drop drop down menu to press on the state you live in and the page was supposed to show a google map with 
 
 ### 3.4 Overall Effectiveness (1–2 paragraphs)
 
